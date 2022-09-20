@@ -6,7 +6,7 @@ permalink: /about/
 
 ## <공사중입니다>
 
-나에대한것? 
+나에대한것?  
 UNIST 20학번 컴퓨터공학과 학부생
 
 ### More Information
