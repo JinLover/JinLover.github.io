@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+## <공사중입니다>
+
+나에대한것? 
+UNIST 20학번 컴퓨터공학과 학부생
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+머가있을까요??
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[taeyoung22@unist.ac.kr](taeyoung22@unist.ac.kr)
