@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    {{ page.date | date: "%Y-%M-%D" }}에 작성
+    {{ page.date | date: "%F" }}, 1년의 {{ page.date | date: "%j" }}번째날에 작성
   </div>
 
   {% include disqus.html %}
