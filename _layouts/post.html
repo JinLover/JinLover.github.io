@@ -4,14 +4,14 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-    {{ "now" | date: "%Y-%m-%d %H:%M" }}
+    마지막 수정일: {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    {{ page.date | date: "%F" }}, 1년의 {{ page.date | date: "%j" }}번째날에 작성
+    {{ page.date | date: "%F(%A)" }}, 1년의 {{ page.date | date: "%j" }}번째날에 작성
   </div>
 
   {% include disqus.html %}
